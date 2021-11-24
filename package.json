@@ -1,0 +1,16 @@
+{
+  "name": "sveltekit-next-200-reproduction-mailto",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "1.0.0-next.21",
+    "@sveltejs/kit": "1.0.0-next.200",
+    "svelte": "^3.44.0"
+  },
+  "type": "module"
+}
